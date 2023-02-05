@@ -9,7 +9,7 @@
     "date": "February 28, 2023",
     "time": "12:00",
     "petsAllowed": true,
-    "organizer": "Kat Laydee",
+    "organizer": "Kat Laydee"
   },
   {
     "id": 5928102,
@@ -20,7 +20,7 @@
     "date": "June 28, 2023",
     "time": "1:00",
     "petsAllowed": false,
-    "organizer": "Ferndo",
+    "organizer": "Ferndo"
   },
   {
     "id": 5928103,
@@ -31,7 +31,7 @@
     "date": "June 4, 2023",
     "time": "9:00",
     "petsAllowed": false,
-    "organizer": "David Hasselhoff",
+    "organizer": "David Hasselhoff"
   }
 
 ]}
